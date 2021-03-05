@@ -14,8 +14,8 @@ function App() {
               target="_blank"
               rel="noopener noreferrer"
           >
-            헤로쿠 배포 Learn React
-          </a>
+            헤로쿠 배포 Learn React 미안 미안
+         </a>
         </p>
       </header>
     </div>
